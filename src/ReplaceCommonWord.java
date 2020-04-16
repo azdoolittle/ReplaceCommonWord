@@ -1,6 +1,5 @@
 /*
 import scanner
-import Arrays
 declare class
 declare method
 declare vars for the, be, BE, input, splitstring
@@ -16,7 +15,6 @@ recursive call on main method
  */
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class ReplaceCommonWord {
     public static void main(String[] args) {
